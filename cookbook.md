@@ -1,12 +1,12 @@
 Baum
-1. Schritt 1
-2. Schritt 2
+1. maus 1
+2. maus 2
 
 
 Haus
-1. Schritt 2
-2. Schritt 3
+1. maus 2
+2. maus 3
 
 Lamb
-1. Schritt 2
-2. Schritt 3
+1. maus 2
+2. maus 3
