@@ -6,3 +6,7 @@ Pfannkuchen
 Schnitzle
 1. Schritt 2
 2. Schritt 3
+
+Steak
+1. Schritt 2
+2. Schritt 3
