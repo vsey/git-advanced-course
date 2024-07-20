@@ -1,12 +1,12 @@
 Baum
-1. maus 1
-2. maus 2
+1. Maus 1
+2. Maus 2
 
 
 Haus
-1. maus 2
-2. maus 3
+1. Maus 2
+2. Maus 3
 
 Lamb
-1. maus 2
-2. maus 3
+1. Maus 2
+2. Maus 3
