@@ -7,6 +7,6 @@ Schnitzle
 1. Schritt 2
 2. Schritt 3
 
-Steak
+Lamb
 1. Schritt 2
 2. Schritt 3
