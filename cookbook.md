@@ -1,9 +1,9 @@
-Pfannkuchen
+Baum
 1. Schritt 1
 2. Schritt 2
 
 
-Schnitzle
+Haus
 1. Schritt 2
 2. Schritt 3
 
