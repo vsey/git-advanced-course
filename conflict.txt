@@ -1,6 +1,6 @@
 Round 1
-rock
+win
 Round 2
-rock
+draw
 Round 3
-rock
+loss
